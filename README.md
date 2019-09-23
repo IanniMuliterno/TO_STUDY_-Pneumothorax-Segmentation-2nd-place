@@ -1,5 +1,7 @@
 # SIIM-ACR Pneumothorax Segmentation
 
+Discussion : https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/108009#latest-628644
+
 # 2nd place solution 
 
 ## Model
